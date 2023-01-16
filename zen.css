@@ -1,0 +1,188 @@
+html {margin: 0;
+  padding: 0;
+}
+
+body { font: 75% Courier New, sans-serif;
+  line-height:1.88889;
+  color: #F4FFEA;
+  background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right;
+  margin: 0; padding: 0;
+    background-image: url('https://cdn.glitch.com/4b4c1b15-c6f9-46b6-96ac-e6372a37b5b7%2FDetailedOilyFly-max-1mb.gif?v=1603069369289');
+   background-repeat:repeat; 
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+
+}
+
+Header {
+    font-family: "Courier New", Sans-serif, monospace;
+    font-size:42px;
+    font-weight:bolder;
+    color:#B7A5DF; 
+  style=text-align:center;
+   border-top: 2px solid #5ec1c4;
+   border-bottom: 2px solid #5ec1c4;
+   background-image: url('https://cdn.glitch.com/4b4c1b15-c6f9-46b6-96ac-e6372a37b5b7%2Fhopf21.gif?v=1603068649686');
+  background-size: fill;
+ 
+}
+
+p { margin-top: 0;
+  text-align: justify;
+   font-size:20px;
+  
+}
+
+h2 { position:absolute;
+ top:80px;
+    left:50px;}
+
+h3 { font: italic normal 1.4em georgia, sans-serif;
+  font-size:32px;
+    display:flex;
+    flex-direction:column;
+    text-align:justify ;
+margin-bottom: 0;
+  color: #1dc1c4;
+}
+
+a:link { font-weight: bold;
+   display:inline-block;
+    color:#ff9898;
+  text-decoration: none;
+  color: #B7A5DF;
+}
+
+a:visited { font-weight: bold;
+  text-decoration: none; 
+  color: #D4CDDC;
+}
+
+a:hover, a:focus, a:active { text-decoration: underline; 
+  color: #9685BA;
+     background-color:#E8E8E8;
+   transition: .2s all;
+    border: 5px solid #E8E8E8;
+}
+
+
+abbr {border-bottom: none;
+}
+
+.page-wrapper{
+  
+}
+
+.preamble{
+   margin:40px;
+   background-color: #D2F9BD;
+  color:#8F00FF ;
+   padding-top:30px;
+  width:50%;
+  display:flex;
+    flex-direction:column;
+  padding-right: 35px;
+   padding-left: 35px;
+  opacity: 0.9;
+}
+
+.explanation{
+   margin:40px;
+   background-color:#F9BDD3;
+  color:#D5002A;
+   padding-top:30px;
+  width:50%;
+  display:flex;
+    flex-direction:column;
+  padding-right: 35px;
+  padding-left: 35px;
+  opacity: 0.9;
+    margin-left: auto;
+}
+
+.participation{
+   margin:40px;
+   background-color:#7F4497;
+  color:#FF8BFD;
+   padding-top:30px;
+  width:50%;
+  display:flex;
+    flex-direction:column;
+  padding-right: 35px;
+  padding-left: 35px;
+  opacity: 0.9;
+} 
+
+.benefits{
+   margin:40px;
+   background-color:#FFE3AA;
+  color:#B8730B;
+   padding-top:30px;
+  width:50%;
+  display:flex;
+    flex-direction:column;
+  padding-right: 35px;
+  padding-left: 35px;
+  opacity: 0.9;
+  margin-left: auto;
+}
+
+.requirements{
+   margin:40px;
+   background-color:#214e64;
+  color:#2AE28B;
+   padding-top:30px;
+  width:50%;
+  display:flex;
+    flex-direction:column;
+  padding-right: 35px;
+  padding-left: 35px;
+  opacity: 0.9;
+}
+
+.wrapper{
+  display:flex;
+  justify-content:space-between;
+  flex-direction:row
+}
+
+.design-selection{
+    margin:10px;
+    padding:10px;
+  background-color:#494285;
+  color:#6ed3f5;
+  opacity: 0.9;
+   padding-right: 35px;
+  padding-left: 35px;
+}
+
+.design-archives{
+    margin:10px;
+    padding:10px;
+  background-color:#494285;
+  color:##6ed3f5;
+  opacity: 0.9;
+   padding-right: 35px;
+  padding-left: 35px;
+}
+
+
+.zen-resources{
+    margin:10px;
+    padding:10px;
+  background-color:#494285;
+  color:#6ed3f5;
+  opacity: 0.9;
+   padding-right: 35px;
+  padding-left: 35px;
+}
+
+.summary{
+  background-image: linear-gradient(#5ec1c4, black);
+  color: white;
+  border: 2px solid black;
+  
+}
+
